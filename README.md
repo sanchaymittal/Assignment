@@ -1,7 +1,21 @@
-# Assignment
-Matic's Assignment
+# Matic's Assignment
 
-# Assignment
+Database is hosted on Firebase.
+
+## Run
+Assignment is an API to retrieve the user transactions, by given the user address.
+- Please visit the given link.
+- Enter the user Address to retrieve the transaction from the user.
+```
+
+```
+
+## How to set it up
+#### Prerequisites
+
+Ensure you have Truffle, Ganache, and NPM installed on your machine. Use Google Chrome as your browser, and ensure you have the MetaMask extension installed in it.
+
+## Assignment
 
 - [x] Connect to an Ethereum node (hosted by Infura) using web3js on the Kovan testnet. Reference. 
 - [x] You can use this blockchain testnet API endpoint on Infura: kovan.infura.io/v3/6c6f87a10e12438f8fbb7fc7c762b37c
