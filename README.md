@@ -1,4 +1,4 @@
-# Matic's Assignment
+# API
 
 <!-- ## Run
 Assignment is an API to retrieve the user transactions, by given the user address.
