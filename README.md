@@ -8,6 +8,10 @@ Assignment is an API to retrieve the user transactions, by given the user addres
 https://ethereum-transaction.herokuapp.com/getTransaction?address=0x002002812b42601ae5026344f0395e68527bb0f8
 ``` -->
 
+1. The emails used for signing up to Infura: sanchaymittal@gmail.com
+2. A screenshot of the "Stats" dashboard of your project showing the graphs of network traffic
+![stats](/static/stats.png)
+
 ## How to set it up[LocalHost]
 ### Prerequisites
 
